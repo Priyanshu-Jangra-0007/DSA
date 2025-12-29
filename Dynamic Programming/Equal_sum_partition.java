@@ -56,8 +56,6 @@ public class Equal_sum_partition {
         dp[n][sum] = pick || not_pick;
         return dp[n][sum];
     }
-
-    //---------------   PSVM   ---------------
     public static void main(String[] args) {
         Equal_sum_partition obj = new Equal_sum_partition();
 
