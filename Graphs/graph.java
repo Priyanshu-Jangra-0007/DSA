@@ -48,6 +48,60 @@ public class graph {
         boolean vis[]=new boolean[v];
         dfsHelper(src, vis);
     }
+
+    boolean isCycleUndirDFS(int src,boolean visited[],int parent){
+        visited[src]=true;
+        for(int neigh:adj[src]){
+            if(!visited[neigh]){
+                if(isCycleUndirDFS(neigh, visited, src)) return true;
+            }
+            else if(neigh!=parent) return true;
+        }
+        return false;
+    }
+    boolean isCycleDFS() {
+        boolean[] vis = new boolean[v];
+        for (int i = 0; i < v; i++) {
+            if (!vis[i]) {
+                if (isCycleUndirDFS(i, vis, -1)) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+    boolean isCycleUndirBFS(int src, boolean[] vis){
+        Queue<int[]> q = new LinkedList<>();
+        q.add(new int[]{src,-1});
+        vis[src]=true;
+        while(!q.isEmpty()){
+            int [] cur=q.poll();
+            int u=cur[0];
+            int par=cur[1];
+            for(int v:adj[u]){
+                if(!vis[v]){
+                    vis[v]=true;
+                    q.add(new int[]{v,u});
+                }
+                else if(v!=par){
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+    boolean isCycleBFS(){
+        boolean vis[]=new boolean [v];
+        for(int i=0;i<v;i++){
+            if(!vis[i]){
+                if(isCycleUndirBFS(i, vis)){
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
     void printgraph(){
         for(int i=0;i<v;i++){
             System.out.print(i+ " : ");
@@ -67,5 +121,8 @@ public class graph {
         System.out.println();
         g.dfs();
         // g.printgraph();
+        System.out.println();
+        System.out.println(g.isCycleBFS());
+        System.out.println(g.isCycleDFS());
     }
 }
