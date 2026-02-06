@@ -8,10 +8,10 @@ public class connected_components{
         if(r<0 || c<0 || r>=rowl || c>=coll || grid[r][c]==0 || visited[r][c]==true) return;
         visited[r][c]=true;
 
-        // dfs(r-1,c,visited,grid);
-        // dfs(r+1,c,visited,grid);
-        // dfs(r,c-1,visited,grid);
-        // dfs(r,c+1,visited,grid);
+        dfs(r-1,c,visited,grid);
+        dfs(r+1,c,visited,grid);
+        dfs(r,c-1,visited,grid);
+        dfs(r,c+1,visited,grid);
 
         for(int i=0;i<4;i++){
             dfs(r+dr[i],c+dc[i],visited,grid);
