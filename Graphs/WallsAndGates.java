@@ -5,7 +5,6 @@ public class WallsAndGates {
     static final int INF = 2147483647;
     static int[] dr = {-1, 1, 0, 0};
     static int[] dc = {0, 0, -1, 1};
-
     static class Pair {
         int r, c;
         Pair(int r, int c) {
@@ -17,9 +16,7 @@ public class WallsAndGates {
     public static void wallsAndGates(int[][] rooms) {
         int m = rooms.length;
         int n = rooms[0].length;
-
         Queue<Pair> q = new LinkedList<>();
-
         // Add all gates to queue
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
@@ -29,7 +26,6 @@ public class WallsAndGates {
             }
         }
 
-        // Multi-source BFS
         while (!q.isEmpty()) {
             Pair cur = q.poll();
 
@@ -45,7 +41,6 @@ public class WallsAndGates {
         }
     }
 
-    // Helper method to print matrix
     public static void printMatrix(int[][] rooms) {
         for (int[] row : rooms) {
             for (int val : row) {
