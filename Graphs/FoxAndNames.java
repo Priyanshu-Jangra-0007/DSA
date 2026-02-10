@@ -21,7 +21,6 @@ public class FoxAndNames
             String a = words[i];
             String b = words[i + 1];
             int len = Math.min(a.length(), b.length());
-            boolean found=false;
             for(int k=0;k<len;k++){
                 char w1=a.charAt(k);
                 char w2=b.charAt(k);
@@ -29,17 +28,15 @@ public class FoxAndNames
                 {
                     adj.get(w1-'a').add(w2-'a');
                     indegree[w2-'a']++;
-                    found=true;
                     break;
                 }
             }
-            if(!found&&a.length()>b.length())
-            {
+            if(a.length()>b.length() && a.startsWith(b)){
                 System.out.println("Impossible");
                 return ;
             }
         }
-    Queue<Integer> q = new LinkedList<>();
+        Queue<Integer> q = new LinkedList<>();
         for (int i = 0; i < 26; i++) {
             if (indegree[i] == 0) {
                 q.offer(i);
