@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class ShortestRoutesI {
+public class DijkstraPath {
     static class Pair {
         int node;
         long dist;
@@ -22,11 +22,12 @@ public class ShortestRoutesI {
             st = new StringTokenizer(br.readLine());
             int a = Integer.parseInt(st.nextToken());
             int b = Integer.parseInt(st.nextToken());
-            long c = Long.parseLong(st.nextToken());
-
-            adj.get(a).add(new Pair(b, c));
+            long w = Long.parseLong(st.nextToken());
+            adj.get(a).add(new Pair(b, w));
+            adj.get(b).add(new Pair(a, w));  
         }
         long[] dist = new long[n + 1];
+        int[] parent = new int[n + 1];
         Arrays.fill(dist, Long.MAX_VALUE);
         PriorityQueue<Pair> pq =new PriorityQueue<>((a, b) -> Long.compare(a.dist, b.dist));
         dist[1] = 0;
@@ -40,14 +41,22 @@ public class ShortestRoutesI {
                 long weight = neighbor.dist;
                 if (dist[v] > dist[u] + weight) {
                     dist[v] = dist[u] + weight;
+                    parent[v] = u; 
                     pq.offer(new Pair(v, dist[v]));
                 }
             }
         }
-        StringBuilder sb = new StringBuilder();
-        for (int i = 1; i <= n; i++) {
-            sb.append(dist[i]).append(" ");
+        if (dist[n] == Long.MAX_VALUE) {
+            System.out.println(-1);
+            return;
         }
-        System.out.println(sb);
+        ArrayList<Integer> path = new ArrayList<>();
+        for (int v = n; v != 0; v = parent[v]) {
+            path.add(v);
+        }
+        Collections.reverse(path);
+        for (int node : path) {
+            System.out.print(node + " ");
+        }
     }
 }
