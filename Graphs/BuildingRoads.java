@@ -40,9 +40,7 @@ public class BuildingRoads {
             graph[a].add(b);
             graph[b].add(a);
         }
-
-        ArrayList<Integer> reps = new ArrayList<>();
-
+        ArrayList<Integer> reps = new ArrayList<>(); 
         for (int i = 1; i <= n; i++) {
             if (!visited[i]) {
                 reps.add(i);
