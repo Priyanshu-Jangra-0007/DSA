@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class GraphValidTree {
+public class GraphValidTree  {
     static int comp;
 
     public static boolean validTree(int n, int[][] edges) {
