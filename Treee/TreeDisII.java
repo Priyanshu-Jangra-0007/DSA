@@ -1,4 +1,4 @@
-package Tree;
+// package Treee;
 import java.io.*;
 import java.util.*;
 public class TreeDisII{
@@ -41,8 +41,8 @@ public class TreeDisII{
             if (child == parent) continue;
             dfs(child, node);
             subTree[node] += subTree[child];
+            distance[node] += distance[child] + subTree[child];
         }
-        ans[1]+= subTree[node];
     }
     static void reroot(int node, int parent) {
         for (int child : tree[node]) {
