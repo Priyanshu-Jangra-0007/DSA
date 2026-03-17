@@ -59,6 +59,7 @@ public class hotelQuerries {
                 sb.append(res+1).append(" ");
             }
         }
+        
         System.out.println(sb.toString());
     }
 }
