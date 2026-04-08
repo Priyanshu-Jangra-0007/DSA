@@ -1,5 +1,3 @@
-package graph;
-
 import java.io.*;
 import java.util.*;
 
