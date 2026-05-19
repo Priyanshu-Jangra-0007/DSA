@@ -67,7 +67,6 @@ public class Labyrinth2 {
                 }
             }
         }
-
         Queue<pair> q=new LinkedList<>();
         String path=bfs(sx,sy,dx,dy);
         if (path == null) {
