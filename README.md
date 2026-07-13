@@ -37,3 +37,11 @@ Compile and run any Java file using:
 ```bash
 javac FileName.java
 java FileName
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1291-sequential-digits/) | Medium |
+<!---LeetCode Topics End-->
