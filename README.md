@@ -68,6 +68,7 @@ java FileName
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0344-reverse-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -77,4 +78,8 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
