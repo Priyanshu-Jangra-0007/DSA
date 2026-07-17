@@ -56,6 +56,7 @@ java FileName
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0050-powx-n/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -152,4 +153,8 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
