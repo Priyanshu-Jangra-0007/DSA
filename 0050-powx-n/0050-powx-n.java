@@ -1,19 +1,18 @@
 class Solution {
     public double myPow(double x, int n) {
         long N=n;
-        if(N<0){
-            x=1/x;
+        double ans=1;
+        if(n<0){
             N=-N;
+            x=1/x;
         }
-        return solve(x,N);
-    }
-    public double solve(double x,long N){
-        if(N==0) return 1;
-        if(N%2==0){
-            return solve(x*x,N/2);
+        while(N>0){
+            if(N%2==1){
+                ans=ans*x;
+            }
+            x*=x;
+            N/=2;
         }
-        else{
-            return x*solve(x,N-1);
-        }
+    return ans;
     }
 }
