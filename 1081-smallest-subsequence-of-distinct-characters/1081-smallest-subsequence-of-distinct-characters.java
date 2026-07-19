@@ -1,40 +1,34 @@
 class Solution {
     public String smallestSubsequence(String s) {
-        int[] freq = new int[27];
-        boolean[] seen = new boolean[27];
-        Stack<Character> stack = new Stack<>();
-
-        for (int i = 0; i < s.length(); i++)
-            freq[s.charAt(i) & 31]++;
+        int[] lastIndex = new int[26];
 
         for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            int x = c & 31;
-            freq[x]--;
-
-            if (seen[x])
-                continue;
-
-            while (!stack.isEmpty()) {
-                if (stack.peek() <= c)
-                    break;
-
-                if (freq[stack.peek() & 31] == 0)
-                    break;
-
-                seen[stack.peek() & 31] = false;
-                stack.pop();
-            }
-
-            stack.push(c);
-            seen[x] = true;
+            lastIndex[s.charAt(i) - 'a'] = i;
         }
 
-        StringBuilder res = new StringBuilder();
+        boolean[] seen = new boolean[26];
+        StringBuilder sb = new StringBuilder();
 
-        for (char c : stack)
-            res.append(c);
+        for (int i = 0; i < s.length(); i++) {
 
-        return res.toString();
+            char ch = s.charAt(i);
+            int curr = ch - 'a';
+
+            if (seen[curr])
+                continue;
+
+            while (sb.length() > 0 &&
+                   sb.charAt(sb.length() - 1) > ch &&
+                   lastIndex[sb.charAt(sb.length() - 1) - 'a'] > i) {
+
+                seen[sb.charAt(sb.length() - 1) - 'a'] = false;
+                sb.deleteCharAt(sb.length() - 1);
+            }
+
+            sb.append(ch);
+            seen[curr] = true;
+        }
+
+        return sb.toString();
     }
 }
