@@ -44,6 +44,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1291-sequential-digits/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ java FileName
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0344-reverse-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
