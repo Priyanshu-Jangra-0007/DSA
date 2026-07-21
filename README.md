@@ -52,6 +52,7 @@ java FileName
 | [0055-jump-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0134-gas-station](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0704-binary-search](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0704-binary-search/) | Easy |
 | [0860-lemonade-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0860-lemonade-change/) | Easy |
@@ -185,6 +186,7 @@ java FileName
 | [0045-jump-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
