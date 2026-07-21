@@ -49,6 +49,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0134-gas-station](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0704-binary-search](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0704-binary-search/) | Easy |
 | [0860-lemonade-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0860-lemonade-change/) | Easy |
@@ -177,6 +178,7 @@ java FileName
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0134-gas-station](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
