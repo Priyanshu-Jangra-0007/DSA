@@ -59,6 +59,7 @@ java FileName
 | [0860-lemonade-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -104,6 +105,7 @@ java FileName
 | [0455-assign-cookies](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0912-sort-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
