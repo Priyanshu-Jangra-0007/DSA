@@ -54,6 +54,7 @@ java FileName
 | [0134-gas-station](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0605-can-place-flowers](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0704-binary-search/) | Easy |
 | [0860-lemonade-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -191,6 +192,7 @@ java FileName
 | [0134-gas-station](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0605-can-place-flowers](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
