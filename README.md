@@ -118,6 +118,7 @@ java FileName
 | [1200-minimum-absolute-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
@@ -132,6 +133,7 @@ java FileName
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +188,7 @@ java FileName
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
