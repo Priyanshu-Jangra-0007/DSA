@@ -120,6 +120,7 @@ java FileName
 | [1200-minimum-absolute-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -134,6 +135,7 @@ java FileName
 | [0344-reverse-string](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0344-reverse-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -191,12 +193,14 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Combinatorics
@@ -230,6 +234,7 @@ java FileName
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
