@@ -55,6 +55,7 @@ java FileName
 | [0134-gas-station](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0605-can-place-flowers](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0704-binary-search/) | Easy |
@@ -77,6 +78,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0050-powx-n/) | Medium |
+| [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -94,6 +96,7 @@ java FileName
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0055-jump-game/) | Medium |
+| [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Number Theory
@@ -216,6 +219,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0050-powx-n/) | Medium |
+| [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,4 +252,8 @@ java FileName
 | ------- | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
