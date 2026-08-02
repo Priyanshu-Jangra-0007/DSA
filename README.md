@@ -60,6 +60,7 @@ java FileName
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0704-binary-search/) | Easy |
 | [0860-lemonade-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0860-lemonade-change/) | Easy |
+| [0877-stone-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -80,6 +81,7 @@ java FileName
 | [0050-powx-n](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0050-powx-n/) | Medium |
 | [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -97,6 +99,7 @@ java FileName
 | [0045-jump-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0055-jump-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0877-stone-game/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Number Theory
@@ -256,4 +259,5 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
