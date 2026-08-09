@@ -67,6 +67,7 @@ java FileName
 | [0912-sort-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1140-stone-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1406-stone-game-iii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1406-stone-game-iii/) | Hard |
@@ -89,6 +90,7 @@ java FileName
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1140-stone-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -110,6 +112,7 @@ java FileName
 | [0410-split-array-largest-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [2140-solving-questions-with-brainpower](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -241,6 +244,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1140-stone-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -287,6 +291,7 @@ java FileName
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1406-stone-game-iii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -296,4 +301,12 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
