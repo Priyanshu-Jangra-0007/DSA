@@ -70,6 +70,7 @@ java FileName
 | [1140-stone-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -179,6 +180,7 @@ java FileName
 | [0704-binary-search](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Matrix
