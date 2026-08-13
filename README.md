@@ -75,6 +75,7 @@ java FileName
 | [1710-maximum-units-on-a-truck](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -159,6 +160,7 @@ java FileName
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0344-reverse-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -282,6 +284,7 @@ java FileName
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -315,4 +318,8 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
