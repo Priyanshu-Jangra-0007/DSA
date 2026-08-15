@@ -50,6 +50,7 @@ java FileName
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0001-two-sum/) | Easy |
 | [0045-jump-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -240,6 +241,7 @@ java FileName
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0001-two-sum/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
