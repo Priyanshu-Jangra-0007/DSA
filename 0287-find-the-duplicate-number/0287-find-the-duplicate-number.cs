@@ -1,18 +1,19 @@
 public class Solution {
     public int FindDuplicate(int[] nums) {
-        int n = nums.Length;
-        var freq = new int[n + 1];
-        int result = 0;
-        for(int i = 0; i < nums.Length; i++){
-            freq[nums[i]]++;
+        Dictionary<int,int> map=new Dictionary<int,int>();
+        for(int i=0;i<nums.Length;i++){
+            if(map.ContainsKey(nums[i])){
+                map[nums[i]]++;
+            }
+            else{
+                map[nums[i]]=1;
+            }
         }
-        for(int i = 0; i < freq.Length; i++){
-            if(freq[i] > 1){
-                result = i;
-                break;
-            }           
+        foreach(var item in map){
+            if(item.Value>1){
+                return item.Key;
+            }
         }
-
-        return result;
+        return -1;
     }
 }
