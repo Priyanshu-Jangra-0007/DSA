@@ -56,6 +56,7 @@ java FileName
 | [0074-search-a-2d-matrix](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0134-gas-station](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0135-candy/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
@@ -135,6 +136,7 @@ java FileName
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0455-assign-cookies](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -179,6 +181,7 @@ java FileName
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
