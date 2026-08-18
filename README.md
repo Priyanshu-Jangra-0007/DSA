@@ -98,6 +98,7 @@ java FileName
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0877-stone-game/) | Medium |
@@ -123,6 +124,7 @@ java FileName
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0877-stone-game/) | Medium |
@@ -371,4 +373,8 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2029-stone-game-ix/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
