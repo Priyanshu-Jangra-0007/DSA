@@ -61,6 +61,7 @@ java FileName
 | [0198-house-robber](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0322-coin-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
@@ -134,6 +135,7 @@ java FileName
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0740-delete-and-earn](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0740-delete-and-earn/) | Medium |
@@ -230,6 +232,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0322-coin-change/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -392,4 +395,12 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0070-climbing-stairs/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
