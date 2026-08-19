@@ -68,6 +68,7 @@ java FileName
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [0740-delete-and-earn](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -135,6 +136,7 @@ java FileName
 | [0213-house-robber-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [0740-delete-and-earn](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1140-stone-game-ii/) | Medium |
@@ -267,6 +269,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0001-two-sum/) | Easy |
+| [0740-delete-and-earn](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
