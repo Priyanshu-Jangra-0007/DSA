@@ -1,10 +1,17 @@
 class Solution {
+    static Boolean dp[];
     public boolean canJump(int[] nums) {
-        int maxi=0;
-        for(int i=0;i<nums.length;i++){
-            if(maxi<i) return false;
-            maxi=Math.max(maxi,i+nums[i]);
+        dp=new Boolean[nums.length+1];
+        return solve(nums,0);
+    }
+    public static boolean solve(int nums[],int i){
+        if(i>=nums.length-1) return true;
+        if(dp[i]!=null) return dp[i];
+        for(int j=1;j<=nums[i];j++){
+            if(solve(nums,i+j)){
+                return dp[i]=true;
+            }
         }
-        return true;
+        return dp[i]=false;
     }
 }
