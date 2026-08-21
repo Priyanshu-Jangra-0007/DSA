@@ -93,6 +93,7 @@ java FileName
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -118,6 +119,7 @@ java FileName
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -154,6 +156,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -216,6 +219,7 @@ java FileName
 | [0875-koko-eating-bananas](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Matrix
@@ -288,6 +292,7 @@ java FileName
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Prefix Sum
@@ -340,6 +345,7 @@ java FileName
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
