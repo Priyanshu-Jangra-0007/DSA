@@ -1,11 +1,8 @@
-SELECT 
-    d.name AS Department,
-    e.name AS Employee,
-    e.salary AS Salary
-FROM Employee e, Department d
-WHERE e.departmentId = d.id
-AND e.salary = (
-    SELECT MAX(e2.salary)
-    FROM Employee e2
-    WHERE e2.departmentId = e.departmentId
-);
+select d.name as Department,
+e.name as Employee,
+e.salary as Salary
+from Employee e,Department d
+where e.departmentId=d.id
+AND e.salary=(select max(e2.salary)
+from employee e2
+where e.departmentId=e2.departmentId);
