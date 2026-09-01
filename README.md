@@ -105,6 +105,7 @@ java FileName
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -243,6 +244,7 @@ java FileName
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +260,7 @@ java FileName
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0322-coin-change/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +308,7 @@ java FileName
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -371,6 +375,7 @@ java FileName
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
