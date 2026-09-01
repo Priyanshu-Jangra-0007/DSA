@@ -1,21 +1,13 @@
 public class Solution {
     public bool IsAnagram(string s, string t) {
-        char []arr1=s.ToCharArray();
-        char []arr2=t.ToCharArray();
-        Array.Sort(arr1);
-        Array.Sort(arr2);
-        if(arr1.Length!=arr2.Length){
-            return false;
+        if(s.Length!=t.Length) return false;
+        int [] freq=new int[26];
+        for(int i=0;i<s.Length;i++){
+            freq[s[i]-'a']++;
+            freq[t[i]-'a']--;
         }
-        int i=0;
-        int n=arr1.Length;
-        while(i<n){
-            if(arr1[i]==arr2[i]){
-                i++;
-            }
-            else{
-                return false;
-            }
+        for(int i=0;i<26;i++){
+            if(freq[i]!=0) return false;
         }
         return true;
     }
