@@ -124,6 +124,7 @@ java FileName
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1563-stone-game-v/) | Hard |
@@ -163,6 +164,7 @@ java FileName
 | [0740-delete-and-earn](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0877-stone-game/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1563-stone-game-v/) | Hard |
@@ -451,6 +453,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
