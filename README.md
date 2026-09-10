@@ -263,10 +263,12 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -279,6 +281,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
