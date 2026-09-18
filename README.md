@@ -210,6 +210,7 @@ java FileName
 | [0976-largest-perimeter-triangle](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -230,6 +231,7 @@ java FileName
 | [0242-valid-anagram](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0344-reverse-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -328,6 +330,7 @@ java FileName
 | [0242-valid-anagram](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0740-delete-and-earn](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -379,6 +382,7 @@ java FileName
 | [0976-largest-perimeter-triangle](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1927-sum-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2029-stone-game-ix/) | Medium |
