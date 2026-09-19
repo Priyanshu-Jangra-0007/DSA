@@ -130,6 +130,7 @@ java FileName
 | [0976-largest-perimeter-triangle](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1140-stone-game-ii/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1872-stone-game-viii/) | Hard |
@@ -502,4 +503,5 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
