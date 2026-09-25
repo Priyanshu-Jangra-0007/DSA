@@ -217,6 +217,7 @@ java FileName
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -241,6 +242,7 @@ java FileName
 | [0242-valid-anagram](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0344-reverse-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -297,6 +299,7 @@ java FileName
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0322-coin-change/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
@@ -341,6 +344,7 @@ java FileName
 | [0001-two-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0740-delete-and-earn](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0740-delete-and-earn/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -382,6 +386,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +450,7 @@ java FileName
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
