@@ -92,6 +92,7 @@ java FileName
 | [1563-stone-game-v](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2029-stone-game-ix/) | Medium |
@@ -244,6 +245,7 @@ java FileName
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -348,6 +350,7 @@ java FileName
 | [1386-cinema-seat-allocation](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
