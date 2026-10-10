@@ -99,6 +99,7 @@ java FileName
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -225,6 +226,7 @@ java FileName
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -287,6 +289,7 @@ java FileName
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -331,6 +334,7 @@ java FileName
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -434,6 +438,7 @@ java FileName
 | [1927-sum-game](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
