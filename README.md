@@ -291,6 +291,7 @@ java FileName
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
