@@ -85,6 +85,7 @@ java FileName
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1140-stone-game-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -319,6 +320,7 @@ java FileName
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0835-image-overlap](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Tree
@@ -331,6 +333,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -340,6 +343,7 @@ java FileName
 | [0301-remove-invalid-parentheses](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0322-coin-change/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
@@ -585,6 +589,7 @@ java FileName
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Linked List
