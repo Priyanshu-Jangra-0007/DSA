@@ -331,12 +331,14 @@ java FileName
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -356,6 +358,7 @@ java FileName
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -447,6 +450,7 @@ java FileName
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
