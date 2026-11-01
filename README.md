@@ -350,6 +350,7 @@ java FileName
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -367,6 +368,7 @@ java FileName
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -404,6 +406,7 @@ java FileName
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -700,4 +703,12 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
