@@ -15,12 +15,9 @@
  */
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        return knapsack(root,targetSum);
-    }
-    public static boolean knapsack(TreeNode root, int target){
-        if(root==null ) return false;
-        target-=root.val;
-        if((root.left==null && root.right==null) && target==0) return true;
-        return knapsack(root.left,target) || knapsack(root.right,target);
+        if(root==null) return false;
+        targetSum-=root.val;
+        if((root.left == null && root.right==null) && targetSum==0) return true;
+        return hasPathSum(root.left,targetSum)||hasPathSum(root.right,targetSum);
     }
 }
