@@ -350,6 +350,7 @@ java FileName
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -366,6 +367,7 @@ java FileName
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -382,6 +384,7 @@ java FileName
 | [0226-invert-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0322-coin-change/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -401,6 +404,7 @@ java FileName
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Divide and Conquer
