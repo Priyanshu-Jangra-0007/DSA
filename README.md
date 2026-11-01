@@ -344,6 +344,7 @@ java FileName
 | [0101-symmetric-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0226-invert-binary-tree/) | Easy |
@@ -358,6 +359,7 @@ java FileName
 | [0100-same-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0226-invert-binary-tree/) | Easy |
@@ -374,6 +376,7 @@ java FileName
 | [0101-symmetric-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0322-coin-change/) | Medium |
@@ -390,6 +393,7 @@ java FileName
 | [0101-symmetric-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0226-invert-binary-tree/) | Easy |
