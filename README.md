@@ -349,6 +349,7 @@ java FileName
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -368,6 +369,7 @@ java FileName
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -408,6 +410,7 @@ java FileName
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -694,6 +697,7 @@ java FileName
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Fermat's Little Theorem
 | Problem Name | Difficulty |
@@ -715,4 +719,12 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
