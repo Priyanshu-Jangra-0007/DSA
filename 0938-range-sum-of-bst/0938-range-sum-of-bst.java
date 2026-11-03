@@ -14,9 +14,9 @@
  * }
  */
 class Solution {
-    static int sum=0;
+    static int sum;
     public int rangeSumBST(TreeNode root, int low, int high) {
-         sum=0;
+        sum=0;
         search(root,low,high);
         return sum;
         
