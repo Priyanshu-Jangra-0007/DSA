@@ -14,18 +14,17 @@
  * }
  */
 class Solution {
+    static int sum=0;
     public int rangeSumBST(TreeNode root, int low, int high) {
-        if(root==null) return 0;
-        int sum=0;
-        if(root.val>=low && root.val<=high){
-            sum+=root.val;
-        }
-        if(root.val>low){
-            sum+=rangeSumBST(root.left,low,high);
-        }
-        if(root.val<high){
-            sum+=rangeSumBST(root.right,low,high);
-        }
+         sum=0;
+        search(root,low,high);
         return sum;
+        
+    }
+    static void search(TreeNode root,int low,int high){
+        if(root==null) return ;
+        if(low<=root.val && root.val<=high)sum=sum+root.val;
+        search(root.left,low,high);
+        search(root.right,low,high);
     }
 }
