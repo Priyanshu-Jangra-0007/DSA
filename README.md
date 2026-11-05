@@ -91,6 +91,7 @@ java FileName
 | [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -241,6 +242,7 @@ java FileName
 | [0287-find-the-duplicate-number](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0455-assign-cookies](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -256,6 +258,7 @@ java FileName
 | [0976-largest-perimeter-triangle](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -328,6 +331,7 @@ java FileName
 | [0875-koko-eating-bananas](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
