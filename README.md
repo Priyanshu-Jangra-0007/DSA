@@ -90,6 +90,7 @@ java FileName
 | [1200-minimum-absolute-difference](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -348,6 +349,7 @@ java FileName
 | [0835-image-overlap](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -398,6 +400,7 @@ java FileName
 | [0938-range-sum-of-bst](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -419,6 +422,7 @@ java FileName
 | [0965-univalued-binary-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -479,6 +483,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2029-stone-game-ix](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -701,6 +706,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
