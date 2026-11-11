@@ -191,6 +191,7 @@ java FileName
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -595,6 +596,7 @@ java FileName
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
