@@ -118,6 +118,7 @@ java FileName
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
