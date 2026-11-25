@@ -139,6 +139,7 @@ java FileName
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -241,6 +242,7 @@ java FileName
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -564,6 +566,7 @@ java FileName
 | [1872-stone-game-viii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Recursion
@@ -698,6 +701,7 @@ java FileName
 | [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -817,10 +821,12 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
