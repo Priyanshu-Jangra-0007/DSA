@@ -155,6 +155,7 @@ java FileName
 | [3886-sum-of-sortable-integers](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -366,6 +367,7 @@ java FileName
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -543,6 +545,7 @@ java FileName
 | [3718-smallest-missing-multiple-of-k](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -801,6 +804,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -817,4 +821,12 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Priyanshu-Jangra-0007/DSA/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
